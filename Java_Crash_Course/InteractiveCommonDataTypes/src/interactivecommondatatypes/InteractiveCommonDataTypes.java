@@ -39,6 +39,7 @@ public class InteractiveCommonDataTypes {
       
       heshe = isFemale ? "She" :"He";
       daystill = retirement - age;
+      
       /*
       Shorter way to declare variables and assign values would be
       String name = Nips;
