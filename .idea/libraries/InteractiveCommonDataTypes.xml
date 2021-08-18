@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="InteractiveCommonDataTypes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Java_Crash_Course/InteractiveCommonDataTypes/dist/InteractiveCommonDataTypes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

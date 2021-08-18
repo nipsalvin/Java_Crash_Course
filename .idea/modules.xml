@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_Crash_Course/InteractiveCommonDataTypes/InteractiveCommonDataTypes.iml" filepath="$PROJECT_DIR$/Java_Crash_Course/InteractiveCommonDataTypes/InteractiveCommonDataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Crash_Course.iml" filepath="$PROJECT_DIR$/.idea/Java_Crash_Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Crash_Course/YouTubeHelloWorld/YouTubeHelloWorld.iml" filepath="$PROJECT_DIR$/Java_Crash_Course/YouTubeHelloWorld/YouTubeHelloWorld.iml" />
+    </modules>
+  </component>
+</project>
