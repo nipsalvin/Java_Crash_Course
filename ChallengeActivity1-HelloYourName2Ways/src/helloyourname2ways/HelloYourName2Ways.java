@@ -26,18 +26,16 @@ public class HelloYourName2Ways {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
-        System.out.print("Enter your name: " );
+        System.out.print("Enter your First name: " );
         String fname = input.nextLine();
-        System.out.print("Enter your name: " );
+        System.out.print("Enter your Last name: " );
         String lname = input.nextLine();
 
-        System.out.print("hello,");
-        System.out.print(fname);
-        System.out.println(lname);
+        System.out.printf("hello %s %s !\n",fname, lname);
+       
 
-        System.out.print("Or should i say ");
-        System.out.print(lname );
-        System.out.print(fname);
+        System.out.printf("Or should i say %s %s!\n", lname, fname);
+       
 
 
     }
