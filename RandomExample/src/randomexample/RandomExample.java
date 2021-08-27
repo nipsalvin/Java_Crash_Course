@@ -1,7 +1,7 @@
 package randomexample;
 
 import java.util.Random;
-
+//author nips
 public class RandomExample {
 
     public static void main(String[] args) {
