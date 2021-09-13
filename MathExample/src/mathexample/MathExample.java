@@ -10,6 +10,7 @@ import java.util.Scanner;
 /**
  *
  * @author Nips
+ *
  */
 public class MathExample {
 
